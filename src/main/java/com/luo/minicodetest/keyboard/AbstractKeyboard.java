@@ -73,7 +73,7 @@ public abstract class AbstractKeyboard implements IKeyboard {
     }
 
     /**
-     * 数字转字母
+     * 数字转字母 （2个按钮)
      *
      * @param button1
      * @param button2
@@ -82,7 +82,7 @@ public abstract class AbstractKeyboard implements IKeyboard {
     protected abstract String convertDigitsToLetters(Button button1, Button button2);
 
     /**
-     * 数字转字母
+     * 数字转字母(一个按钮)
      *
      * @param button
      * @return
