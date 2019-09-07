@@ -1,10 +1,10 @@
 package com.luo.minicodetest.button;
 
 /**
- * 静态抽象工厂
+ *
  *
  * @author luoyongchun
- * @description:
+ * @description:静态抽象工厂  用于创建 需要的 9宫格按钮 对象
  * @date: Created In 19:06 on 2019-09-07.
  */
 public class ButtonFactory {
@@ -26,6 +26,11 @@ public class ButtonFactory {
 
     }
 
+    /**
+     * 通过按钮名称 创建需要的对象
+     * @param buttonName 按钮名称
+     * @return 返回一个按钮对象
+     */
     public static Button genButton(String buttonName) {
         switch (buttonName) {
             case ZERO:
@@ -77,7 +82,7 @@ public class ButtonFactory {
                 return diy2Button;
 
             default:
-                throw new RuntimeException("Button does not exist");
+                throw new RuntimeException("Button is not exist");
         }
     }
 

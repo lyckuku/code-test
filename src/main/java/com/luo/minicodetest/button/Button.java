@@ -15,6 +15,12 @@ public class Button {
      */
     private String[] letterArr;
 
+    /**
+     * 通过构造方法传递参数
+     * @param name 按钮名称
+     * @param letterArr  按钮映射的字母对象
+     */
+
     public Button(String name, String[] letterArr) {
         this.name = name;
         this.letterArr = letterArr;

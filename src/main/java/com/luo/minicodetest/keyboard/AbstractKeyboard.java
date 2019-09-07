@@ -9,10 +9,11 @@ import java.util.Set;
 
 /**
  * @author luoyongchun
- * @description:
+ * @description:业务抽象类
  * @date: Created In 18:55 on 2019-09-07.
  */
 public abstract class AbstractKeyboard implements IKeyboard {
+    // 定义按钮个数
     private static final int MAX_INPUT = 2;
     private static final int ONE_INPUT = 1;
     private static final int ZERO_INPUT = 0;
@@ -38,6 +39,12 @@ public abstract class AbstractKeyboard implements IKeyboard {
         buttonMap.put(ButtonFactory.DIY2, ButtonFactory.genButton(ButtonFactory.DIY2));
     }
 
+    /**
+     * 根据输入参数 得到 输出结果
+     *
+     * @param inputArr 输入参数
+     * @return 按钮映射的字母
+     */
     @Override
     public String sinkResult(String[] inputArr) {
 
@@ -75,17 +82,17 @@ public abstract class AbstractKeyboard implements IKeyboard {
     /**
      * 数字转字母 （2个按钮)
      *
-     * @param button1
-     * @param button2
-     * @return
+     * @param button1 第一个按钮对象
+     * @param button2 第2个按钮对象
+     * @return 按钮 映射的字母
      */
     protected abstract String convertDigitsToLetters(Button button1, Button button2);
 
     /**
      * 数字转字母(一个按钮)
      *
-     * @param button
-     * @return
+     * @param button 按钮对象
+     * @return 按钮 映射的字母
      */
     protected abstract String convertDigitsToLetters(Button button);
 

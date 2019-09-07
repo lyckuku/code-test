@@ -5,11 +5,18 @@ import com.luo.minicodetest.utils.ArrayUtil;
 
 /**
  * @author luoyongchun
- * @description:
+ * @description:按钮映射字母功能的 的具体实现
  * @date: Created In 19:00 on 2019-09-07.
  */
 public class SimpleKeyboard extends AbstractKeyboard {
     public static final String space = " ";
+
+    /**
+     *一个按钮的映射逻辑
+     * @param button1 第一个按钮对象
+     * @param button2 第2个按钮对象
+     * @return 映射的字母信息
+     */
 
     @Override
     protected String convertDigitsToLetters(Button button1, Button button2) {
@@ -35,6 +42,11 @@ public class SimpleKeyboard extends AbstractKeyboard {
         return letterResult.toString();
     }
 
+    /**
+     * 一个按钮的映射逻辑
+     * @param button 按钮对象
+     * @return 字母映射信息
+     */
     @Override
     protected String convertDigitsToLetters(Button button) {
 
