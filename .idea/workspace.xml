@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d62e436c-a80d-41fc-882a-410a3eab7086" name="Default Changelist" comment="测试类">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d62e436c-a80d-41fc-882a-410a3eab7086" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -158,135 +156,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="luo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="luo" type="462c0819:PsiDirectoryNode" />
-              <item name="minicodetest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="luo" type="462c0819:PsiDirectoryNode" />
-              <item name="minicodetest" type="462c0819:PsiDirectoryNode" />
-              <item name="button" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="luo" type="462c0819:PsiDirectoryNode" />
-              <item name="minicodetest" type="462c0819:PsiDirectoryNode" />
-              <item name="keyboard" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="luo" type="462c0819:PsiDirectoryNode" />
-              <item name="minicodetest" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="luo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mini-code-test" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mini-code-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="luo" type="462c0819:PsiDirectoryNode" />
-              <item name="minicodetest" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
@@ -321,7 +191,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SimpleKeyBoardTest.TestZeroToNinetyNine">
+  <component name="RunManager" selected="JUnit.SimpleKeyBoardTest.TestZeroToNine">
+    <configuration name="SimpleKeyBoardTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mini-code-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.minicodetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo.minicodetest" />
+      <option name="MAIN_CLASS_NAME" value="com.luo.minicodetest.SimpleKeyBoardTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SimpleKeyBoardTest.TestZeroToNine" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="mini-code-test" />
       <extension name="coverage">
@@ -354,10 +239,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SimpleKeyBoardTest.ZeroInput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mini-code-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luo.minicodetest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.luo.minicodetest" />
+      <option name="MAIN_CLASS_NAME" value="com.luo.minicodetest.SimpleKeyBoardTest" />
+      <option name="METHOD_NAME" value="ZeroInput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SimpleKeyBoardTest.TestZeroToNinetyNine" />
         <item itemvalue="JUnit.SimpleKeyBoardTest.TestZeroToNine" />
+        <item itemvalue="JUnit.SimpleKeyBoardTest" />
+        <item itemvalue="JUnit.SimpleKeyBoardTest.ZeroInput" />
+        <item itemvalue="JUnit.SimpleKeyBoardTest.TestZeroToNinetyNine" />
       </list>
     </recent_temporary>
   </component>
@@ -372,7 +275,7 @@
       <option name="presentableId" value="Default" />
       <updated>1567861470427</updated>
       <workItem from="1567861471838" duration="4156000" />
-      <workItem from="1567865693200" duration="2110000" />
+      <workItem from="1567865693200" duration="2479000" />
     </task>
     <task id="LOCAL-00001" summary="测试类">
       <created>1567866342920</created>
@@ -388,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567866444626</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2019-09-07">
+      <created>1567868123031</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567868123031</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -403,7 +313,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6266000" />
+    <option name="totallyTimeSpent" value="6635000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -453,7 +363,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试类" />
-    <option name="LAST_COMMIT_MESSAGE" value="测试类" />
+    <MESSAGE value="2019-09-07" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019-09-07" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
