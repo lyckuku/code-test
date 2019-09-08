@@ -45,7 +45,7 @@ public class SimpleKeyboard extends AbstractKeyboard {
     /**
      * 一个按钮具体的映射逻辑
      * @param button 按钮对象
-     * @return 字母映射信息
+     * @return 映射的字母信息
      */
     @Override
     protected String convertDigitsToLetters(Button button) {
