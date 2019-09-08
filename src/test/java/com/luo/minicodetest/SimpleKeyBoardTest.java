@@ -13,18 +13,18 @@ import java.util.Arrays;
  */
 public class SimpleKeyBoardTest {
     /**
-     * 测试 0到9  一个按钮
+     * 测试 0到9  (一个按钮)
      */
 
     @Test
     public void TestZeroToNine() {
         IKeyboard simpleKeyboard = new SimpleKeyboard();
-        String[] arr = {"9"};
+        String[] arr = {"8"};
         System.out.println(String.format("Input: %s", Arrays.toString(arr)));
         System.out.println(String.format("OutPut: %s", simpleKeyboard.sinkResult(arr)));
     }
     /**
-     * 测试 9 9  2个按钮
+     * 测试 9 9  (2个按钮)
      */
     @Test
     public void TestZeroToNinetyNine() {
@@ -35,7 +35,7 @@ public class SimpleKeyBoardTest {
     }
 
     /**
-     * 测试 0  不映射
+     * 测试 0  不映射 字母
      */
     @Test
     public void ZeroInput() {
@@ -56,7 +56,7 @@ public class SimpleKeyBoardTest {
     }
 
     /**
-     * 测试 * # 不映射
+     * 测试 * # 不映射字母
      */
 
     @Test

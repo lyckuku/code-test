@@ -46,9 +46,10 @@ public abstract class AbstractKeyboard implements IKeyboard {
      * @return 按钮映射的字母
      */
     @Override
-    public String sinkResult(String[] inputArr) {
+    public  String sinkResult(String[] inputArr) {
 
         try {
+            //参数校验
             checkInput(inputArr);
 
             if (inputArr.length == ONE_INPUT) {

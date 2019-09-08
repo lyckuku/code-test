@@ -4,7 +4,7 @@ package com.luo.minicodetest.button;
  *
  *
  * @author luoyongchun
- * @description:静态抽象工厂  用于创建 需要的 9宫格按钮 对象
+ * @description:静态抽象工厂  用于创建 需要的 九宫格按钮 对象
  * @date: Created In 19:06 on 2019-09-07.
  */
 public class ButtonFactory {
